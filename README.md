@@ -24,6 +24,16 @@ This resource is built for people searching for better ways to use an **AI video
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Awesome image-to-video prompts](https://github.com/cliprise/awesome-image-to-video-prompts) - still-to-motion workflows, camera language, and source-frame discipline.
+- [Awesome Seedance 2 prompts](https://github.com/cliprise/awesome-seedance-2-prompts) - ByteDance Seedance 2.0 style multimodal video prompts and notes.
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+- [Awesome AI video maker prompts](https://github.com/cliprise/awesome-ai-video-maker-prompts) - creator-friendly prompts for AI video maker style workflows.
+<!-- CLIPRISE_LINKING_END -->
+
 ## What this repository is for
 
 AI video generation is no longer just typing a random prompt and hoping the model understands your idea. Better results usually come from a repeatable workflow:
