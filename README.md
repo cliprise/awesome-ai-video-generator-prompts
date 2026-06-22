@@ -490,6 +490,10 @@ A [duration]-second vertical social media video of [subject] doing [action] in [
 A [duration]-second cinematic scene of [character/subject] in [environment]. Camera: [lens, movement, framing]. Lighting: [cinematic lighting]. Style: [genre and mood]. Motion: [subtle movement]. Restrictions: no text, no extra characters, no unnatural anatomy, avoid flicker.
 ```
 
+### Open-source prompt tools
+
+- **[Vibe Creating](https://github.com/Alisa0808/vibe-creating-skill)** — bilingual EN/中文 skill that rewrites a rough idea or over-specified shot script into a model-ready text-to-video prompt (Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu). Judgment-first; one SKILL.md; MIT.
+
 ---
 
 ## Model selection notes
