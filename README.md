@@ -225,6 +225,7 @@ Cliprise includes model pages that help creators compare and select tools for di
 
 ### Image models useful for image-to-video workflows
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 - [GPT Image 1.5](https://www.cliprise.app/models/gpt-image-1-5)
 - [Google Imagen 4](https://www.cliprise.app/models/google-imagen-4)
 - [Nano Banana Pro](https://www.cliprise.app/models/nano-banana-pro)
