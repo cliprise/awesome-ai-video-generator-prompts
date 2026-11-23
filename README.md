@@ -561,6 +561,8 @@ Related resources:
 - [Text-to-Video vs Image-to-Video](https://www.cliprise.app/learn/workflows/marketing/text-to-video-vs-image-to-video)
 - [Image-to-Video Workflow](https://www.cliprise.app/learn/guides/getting-started/image-to-video-workflow-complete-cliprise-guide)
 - [Image Reference Upload](https://www.cliprise.app/learn/guides/best-practices/image-reference-upload-ai-video-consistency)
+- [AI Photo-to-Video Prompt Recipes](https://github.com/siuserxiaowei/ai-photo-to-video-prompt-recipes) - open-source photo-to-video prompt playbook with 1-step and 2-step workflows for character animation.
+- [Angry Dance](https://angrydance.com) - AI photo-to-video generator for animating a single portrait or character image into short vertical dance clips.
 
 ### Step 3: Write the prompt in layers
 
